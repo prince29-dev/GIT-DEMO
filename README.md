@@ -1,3 +1,4 @@
 # GIT-DEMO
 this repo demo for learning git .
-author-prince rao
+<br>
+Author-Prince Rao
